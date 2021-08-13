@@ -1,0 +1,41 @@
+* {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.App {
+    padding: 50px;
+}
+
+.Container {
+    position: absolute;
+    left: 50%;
+    top: 120px;
+    transform: translate(-50%);
+}
+
+input {
+    padding: 8px;
+}
+
+.button, button {
+    padding: 8px 20px;
+    margin: 5px;
+    background-color: rgb(83, 59, 208);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.task > * {
+    margin: 5px;
+}
