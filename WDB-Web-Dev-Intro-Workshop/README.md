@@ -9,7 +9,7 @@ We will be writing and altering code for each part of the workshop! Therefore, I
 
 At the end of this workshop, you will be able to build this (screenshots below), and understand the how and the why behind web development.
 
-![home page](/home-page.png)
+![home page](/WDB-Web-Dev-Intro-Workshop/home-page.png)
 ![about page](/about-page.png)
 
 ## Setup
