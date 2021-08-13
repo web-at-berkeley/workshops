@@ -10,7 +10,7 @@ We will be writing and altering code for each part of the workshop! Therefore, I
 At the end of this workshop, you will be able to build this (screenshots below), and understand the how and the why behind web development.
 
 ![home page](/WDB-Web-Dev-Intro-Workshop/home-page.png)
-![about page](/about-page.png)
+![about page](/WDB-Web-Dev-Intro-Workshop/about-page.png)
 
 ## Setup
 If you haven't download `git`, download it here! Git is a powerful tool to control and manage your code.
